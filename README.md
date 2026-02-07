@@ -113,7 +113,7 @@ I'm Amanze Emeka, a DevOps enthusiast actively bridging the gap between developm
 
 ---
 
-### 2. [IaC for Multiple Environments](https://github.com/eamanze/multi-env-Iac_orchestrator)
+### 2. [IaC for Multiple Environments](https://github.com/eamanze/multi-env-Iac-orchestrator)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)  [![Terratest](https://img.shields.io/badge/Terratest-000000?style=flat&logo=golang&logoColor=white)](https://terratest.gruntwork.io)
 
 **Scalable, environment-aware provisioning** framework for dev/stage/prod.
