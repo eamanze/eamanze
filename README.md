@@ -100,7 +100,20 @@ I'm Amanze Emeka, a DevOps enthusiast actively bridging the gap between developm
 
 ## 🏗️ Featured Projects
 
-### 1. [Cloud-Native Banking App with DevSecOps on AWS EKS](https://github.com/eamanze/Financial-Services-App/tree/project)
+### 1. [AIOPs Anomaly Detection AWS](https://github.com/eamanze/aiops-anomaly-detection-aws)
+[![AWS SAGEMAKER](https://img.shields.io/badge/aws-sagemaker-orange)](https://aws.amazon.com/sagemaker/?did=ap_card&trk=ap_card)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  [![AWS SAM](https://img.shields.io/badge/aws-sam-brightgreen)](https://aws.amazon.com/serverless/sam/)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Python](https://img.shields.io/badge/python-yellow%3Flogo%3Dpython)](https://www.python.org/)  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
+
+**Secure, ML-driven AIOps platform** on AWS, delivering anomaly detection across logs and time-series with automated deployment and monitoring.
+
+**Key highlights:**
+- Multi-stage SageMaker workflows for BERT log classification and Random Cut Forest time-series anomaly detection
+- Infrastructure-as-code with Terraform provisions EC2 + Docker + Nginx + CloudWatch for monitored hosting
+- Serverless SAM app (Lambda + API Gateway) supports API integration, local emulation, and automated testing
+- End-to-end pipeline stages cover data creation, training, validation, testing, deployment, and monitoring  
+
+---
+
+### 2. [Cloud-Native Banking App with DevSecOps on AWS EKS](https://github.com/eamanze/Financial-Services-App/tree/project)
 [![AWS EKS](https://img.shields.io/badge/AWS_EKS-4F6DB8?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/eks/)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
 
 **Secure, multi-tier banking application** on AWS EKS, delivering enterprise-grade reliability and compliance.
