@@ -114,7 +114,7 @@ I'm Amanze Emeka, a DevOps enthusiast actively bridging the gap between developm
 ---
 
 ### 2. [Cloud-Native Banking App with DevSecOps on AWS EKS](https://github.com/eamanze/Financial-Services-App/tree/project)
-[![AWS EKS](https://img.shields.io/badge/AWS_EKS-4F6DB8?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/eks/)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
+[![AWS EKS](https://img.shields.io/badge/aws-s3-blue)](https://aws.amazon.com/eks/)  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)  [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
 
 **Secure, multi-tier banking application** on AWS EKS, delivering enterprise-grade reliability and compliance.
 
@@ -126,7 +126,7 @@ I'm Amanze Emeka, a DevOps enthusiast actively bridging the gap between developm
 
 ---
 
-### 2. [IaC for Multiple Environments](https://github.com/eamanze/multi-env-Iac-orchestrator)
+### 3. [IaC for Multiple Environments](https://github.com/eamanze/multi-env-Iac-orchestrator)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)  [![Terratest](https://img.shields.io/badge/Terratest-000000?style=flat&logo=golang&logoColor=white)](https://terratest.gruntwork.io)
 
 **Scalable, environment-aware provisioning** framework for dev/stage/prod.
@@ -136,6 +136,19 @@ I'm Amanze Emeka, a DevOps enthusiast actively bridging the gap between developm
 - Infrastructure testing with Terratest, catching 95% of misconfigurations pre-production  
 - Modular Terraform + Ansible code promoting DRY policies and reuse  
 - GitOps workflow improved cross-team collaboration and reduced friction by 40%  
+
+---
+
+### 4. [EdgeFort-Static-Platform](https://github.com/eamanze/EdgeFort-Static-Platform)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![S3 Bucket](https://img.shields.io/badge/aws-s3-blue)](https://aws.amazon.com/s3/?nc2=h_prod_st_s3)  [![AWS Cloudfront](https://img.shields.io/badge/aws-cloudfront-brightyellow)](https://aws.amazon.com/cloudfront/?nc2=h_prod_nt_cft)
+
+**Secure, production-grade static delivery platform** with environment-aware Terraform provisioning for dev/stage/prod.
+
+**Key highlights:**
+- Automated AWS provisioning for edge, DNS, certs, WAF, logging, and monitoring through reusable Terraform workflows
+- Policy-guarded CI/CD pipeline (fmt, validate, tflint, tfsec, checkov, OPA) to catch misconfigurations before deployment
+- Modular infrastructure structure with per-environment backend/state isolation and shared reusable components
+- Blue/green-style release and rollback workflow via origin_path switching, improving release safety and reducing deployment risk  
 
 ---
 
